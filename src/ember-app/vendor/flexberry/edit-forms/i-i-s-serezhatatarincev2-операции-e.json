@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Пользователь",
+      "projection": "ПользовательL",
+      "detailModelName": null
+    }
+  ],
+  "external": false,
+  "caption": "Операции",
+  "name": "IISSerezhatatarincev2ОперацииE",
+  "className": "ОперацииE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-serezhatatarincev2-операции",
+      "modelProjection": "ОперацииE"
+    }
+  ]
+}

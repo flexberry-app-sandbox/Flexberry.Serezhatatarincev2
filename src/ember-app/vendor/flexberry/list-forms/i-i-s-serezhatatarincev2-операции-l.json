@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-serezhatatarincev2-операции-e",
+  "editForm": "i-i-s-serezhatatarincev2-операции-e",
+  "external": false,
+  "caption": "Операции",
+  "name": "IISSerezhatatarincev2ОперацииL",
+  "className": "ОперацииL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-serezhatatarincev2-операции",
+      "modelProjection": "ОперацииL"
+    }
+  ]
+}

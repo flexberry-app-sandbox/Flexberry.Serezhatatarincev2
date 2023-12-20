@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-serezhatatarincev2-тип-e",
+  "editForm": "i-i-s-serezhatatarincev2-тип-e",
+  "external": false,
+  "caption": "Тип",
+  "name": "IISSerezhatatarincev2ТипL",
+  "className": "ТипL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-serezhatatarincev2-тип",
+      "modelProjection": "ТипL"
+    }
+  ]
+}

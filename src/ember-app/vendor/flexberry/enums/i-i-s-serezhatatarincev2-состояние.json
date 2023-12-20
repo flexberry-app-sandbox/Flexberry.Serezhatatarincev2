@@ -1,0 +1,9 @@
+﻿{
+  "nameSpace": "IIS.Serezhatatarincev2",
+  "className": "Состояние",
+  "enumObjects": {
+    "Отличное": "Отличное",
+    "Хорошое": "Хорошое",
+    "Плохое": "Плохое"
+  }
+}

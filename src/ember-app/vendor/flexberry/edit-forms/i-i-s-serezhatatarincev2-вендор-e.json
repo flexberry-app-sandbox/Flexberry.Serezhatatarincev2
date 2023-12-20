@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Вендор",
+  "name": "IISSerezhatatarincev2ВендорE",
+  "className": "ВендорE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-serezhatatarincev2-вендор",
+      "modelProjection": "ВендорE"
+    }
+  ]
+}

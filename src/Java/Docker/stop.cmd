@@ -1,0 +1,1 @@
+docker-compose -p serezhatatarincev2-java down

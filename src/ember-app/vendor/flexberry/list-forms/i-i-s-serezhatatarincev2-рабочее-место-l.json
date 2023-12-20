@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-serezhatatarincev2-рабочее-место-e",
+  "editForm": "i-i-s-serezhatatarincev2-рабочее-место-e",
+  "external": false,
+  "caption": "Рабочее место",
+  "name": "IISSerezhatatarincev2РабочееМестоL",
+  "className": "РабочееМестоL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-serezhatatarincev2-рабочее-место",
+      "modelProjection": "РабочееМестоL"
+    }
+  ]
+}

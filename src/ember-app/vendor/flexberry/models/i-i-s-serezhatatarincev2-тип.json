@@ -1,0 +1,54 @@
+﻿{
+  "name": "IISSerezhatatarincev2Тип",
+  "modelName": "i-i-s-serezhatatarincev2-тип",
+  "className": "Тип",
+  "nameSpace": "IIS.Serezhatatarincev2",
+  "parentModelName": null,
+  "parentClassName": null,
+  "attrs": [
+    {
+      "name": "название",
+      "type": "string",
+      "flexberryType": "string",
+      "notNull": false,
+      "defaultValue": "",
+      "stored": true,
+      "ordered": false
+    }
+  ],
+  "belongsTo": [],
+  "hasMany": [],
+  "projections": [
+    {
+      "name": "ТипE",
+      "modelName": "i-i-s-serezhatatarincev2-тип",
+      "attrs": [
+        {
+          "name": "название",
+          "caption": "Название",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    },
+    {
+      "name": "ТипL",
+      "modelName": "i-i-s-serezhatatarincev2-тип",
+      "attrs": [
+        {
+          "name": "название",
+          "caption": "Название",
+          "hidden": false,
+          "index": 0
+        }
+      ],
+      "belongsTo": [],
+      "hasMany": []
+    }
+  ],
+  "stored": true,
+  "offline": true,
+  "external": false
+}

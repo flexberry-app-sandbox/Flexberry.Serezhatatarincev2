@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-serezhatatarincev2-вендор-e",
+  "editForm": "i-i-s-serezhatatarincev2-вендор-e",
+  "external": false,
+  "caption": "Вендор",
+  "name": "IISSerezhatatarincev2ВендорL",
+  "className": "ВендорL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-serezhatatarincev2-вендор",
+      "modelProjection": "ВендорL"
+    }
+  ]
+}

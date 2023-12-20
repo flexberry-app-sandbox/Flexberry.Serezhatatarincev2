@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Тип",
+  "name": "IISSerezhatatarincev2ТипE",
+  "className": "ТипE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-serezhatatarincev2-тип",
+      "modelProjection": "ТипE"
+    }
+  ]
+}

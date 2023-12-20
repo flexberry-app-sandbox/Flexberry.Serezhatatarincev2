@@ -1,0 +1,55 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": null,
+      "displayAttributeName": null,
+      "required": false,
+      "relationName": "Филиал",
+      "projection": "ФилиалL",
+      "detailModelName": null
+    },
+    {
+      "master": "тип",
+      "displayAttributeName": "название",
+      "required": true,
+      "relationName": "Оборудование.Тип",
+      "projection": "ТипL",
+      "detailModelName": "i-i-s-serezhatatarincev2-оборудование"
+    },
+    {
+      "master": "операции",
+      "displayAttributeName": "дата",
+      "required": true,
+      "relationName": "Оборудование.Операции",
+      "projection": "ОперацииL",
+      "detailModelName": "i-i-s-serezhatatarincev2-оборудование"
+    },
+    {
+      "master": "пользователь",
+      "displayAttributeName": "фИО",
+      "required": true,
+      "relationName": "Оборудование.Пользователь",
+      "projection": "ПользовательL",
+      "detailModelName": "i-i-s-serezhatatarincev2-оборудование"
+    },
+    {
+      "master": "вендор",
+      "displayAttributeName": "название",
+      "required": true,
+      "relationName": "ПО.Вендор",
+      "projection": "ВендорL",
+      "detailModelName": "i-i-s-serezhatatarincev2-п-о"
+    }
+  ],
+  "external": false,
+  "caption": "Рабочее место",
+  "name": "IISSerezhatatarincev2РабочееМестоE",
+  "className": "РабочееМестоE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-serezhatatarincev2-рабочее-место",
+      "modelProjection": "РабочееМестоE"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-serezhatatarincev2-филиал-e",
+  "editForm": "i-i-s-serezhatatarincev2-филиал-e",
+  "external": false,
+  "caption": "Филиал",
+  "name": "IISSerezhatatarincev2ФилиалL",
+  "className": "ФилиалL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-serezhatatarincev2-филиал",
+      "modelProjection": "ФилиалL"
+    }
+  ]
+}

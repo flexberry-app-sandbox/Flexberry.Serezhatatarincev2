@@ -1,0 +1,15 @@
+﻿{
+  "newForm": "i-i-s-serezhatatarincev2-пользователь-e",
+  "editForm": "i-i-s-serezhatatarincev2-пользователь-e",
+  "external": false,
+  "caption": "Пользователь",
+  "name": "IISSerezhatatarincev2ПользовательL",
+  "className": "ПользовательL",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-serezhatatarincev2-пользователь",
+      "modelProjection": "ПользовательL"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+import IISSerezhatatarincev2РабочееМестоEController from '../i-i-s-serezhatatarincev2-рабочее-место-e';
+
+var IISSerezhatatarincev2РабочееМестоENewController = IISSerezhatatarincev2РабочееМестоEController;
+export default IISSerezhatatarincev2РабочееМестоENewController;

@@ -1,0 +1,8 @@
+﻿{
+  "nameSpace": "IIS.Serezhatatarincev2",
+  "className": "Действие",
+  "enumObjects": {
+    "Установка": "Установка",
+    "Изменение": "Изменение"
+  }
+}
